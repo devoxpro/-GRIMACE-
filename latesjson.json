@@ -6,7 +6,7 @@
       "ohh i really like this game 👏",
       "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
     ],
-    "rate_comment": false,
+    "rate_comment": true,
     "update_app": false,
     "activate_ads": false,
     "activate_banner": "off",
@@ -50,7 +50,7 @@
     "Counter": "360000",
     "notification_title": "check our new game",
     "notification_text": "woow PARKOUR game is here try it now",
-    "showrate": false
+    "showrate": true
   },
   "more": [
     {
