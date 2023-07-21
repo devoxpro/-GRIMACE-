@@ -8,9 +8,9 @@
     ],
     "rate_comment": true,
     "update_app": false,
-    "activate_ads": false,
+    "activate_ads": true,
     "activate_banner": "off",
-    "activate_inter": "off",
+    "activate_inter": "true",
     "network": "is",
     "one_signal": "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
     "unity_game_id": "5103649",
@@ -178,8 +178,8 @@
       "bg": "https://study.com/learn/lesson/product-advertisement-overview-examples.html"
     },
     {
-      "active": "false",
-      "active_reward": "false",
+      "active": "true",
+      "active_reward": "true",
       "name": "Spinner",
       "ico": "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
       "bg": "#ffffff"
@@ -207,7 +207,7 @@
     },
     {
       "active": "true",
-      "active_reward": "false",
+      "active_reward": "true",
       "name": "Wallpapers",
       "ico": "https://i.ibb.co/hdt8Hct/btnwall.png",
       "bg": "#ffffff"
