@@ -6,11 +6,11 @@
       "ohh i really like this game 👏",
       "thanks for this game i love it In the nxt uptade add the foot step sounds to make more Realstic "
     ],
-    "rate_comment": false,
+    "rate_comment": true,
     "update_app": false,
-    "activate_ads": false,
+    "activate_ads": true,
     "activate_banner": "off",
-    "activate_inter": "false",
+    "activate_inter": "true",
     "network": "is",
     "one_signal": "1dbb1eb5-b146-4a3d-a32d-a6234cb49261",
     "unity_game_id": "5103649",
@@ -50,7 +50,7 @@
     "Counter": "400000",
     "notification_title": "check our new game",
     "notification_text": "woow Grimace Shake scale birthday is here try it now",
-    "showrate": false
+    "showrate": true
   },
   "more": [
     {
