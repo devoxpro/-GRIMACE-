@@ -46,7 +46,7 @@
     "game_link": "https://grimacesbirthday.com/",
     "update_app_activate": "false",
     "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
-    "show_notfication": false,
+    "show_notfication": true,
     "Counter": "400000",
     "notification_title": "check our new game",
     "notification_text": "woow Grimace Shake scale birthday is here try it now",
